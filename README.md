@@ -12,7 +12,7 @@ Code could be easily improved in order to manage several Ultimaker printers.
 Prerequisites 
 =============
 
-- Python 3.6+
+- Python 3.6+ with requests 2.22.0 library
 - Working Telegraf v1.7 + InfluxDB v1.7 + Grafana v5.4 stack
 
 Well I coded that script on these versions, maybe it would work on earlier 
