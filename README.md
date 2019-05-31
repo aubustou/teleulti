@@ -23,7 +23,7 @@ Please test first if the whole stack is working.
 
 Installation
 ============
-- Create a database on InfluxDB named 'ultimaker3' (or whatever you want but in
+- Create a database on InfluxDB named `ultimaker3` (or whatever you want but in
 this case, you will have to change the source database if you want to use the 
 provided Grafana dashboard)
 
