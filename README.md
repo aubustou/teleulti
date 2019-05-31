@@ -1,5 +1,14 @@
 # Ultimaker 3 data collector for Telegraf
 
+Add a collector for Ultimaker 3 in order to gather data into Grafana stack.
+
+This works with only one Ultimaker 3 (or S5, I guess it's the same API). I only
+have one currently so...
+
+Code could be easily improved in order to manage several Ultimaker printers.
+
+
+
 Prerequisites 
 =============
 
