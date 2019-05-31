@@ -40,7 +40,7 @@ Telegraf's server)
       
         commands = [
       
-          "python3 /scripts/collect_um3_state.py"
+          "python3 <PATH_TO_SCRIPT_LOCATION>/collect_um3_state.py"
         
         ]
 
